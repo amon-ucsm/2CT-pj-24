@@ -2,7 +2,7 @@
   *University of Computer Studies, Mandalay(UCSM)
   *2023-2024 Acmadic year
   *Second year second semester project
-  *Obstacle avoiding and line followinf car usind arduino
+  *Obstacle avoiding and line following car using arduino
 */
 
 //Define motor
