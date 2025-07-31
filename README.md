@@ -26,10 +26,16 @@ IR Sensors, HC-SR04 Ultrasonic Sensor, L298N Motor Driver and 4WD Smart Car Chas
 - 18650 Li-ion Battery (2 units)
 - Jumper Wires
 
-Equitments shop `https://www.cestore-mm.com/`
+Equitments shop 
+```
+https://www.cestore-mm.com/
+```
 
 ### Software requirment ###
-- Arduino IDE `https://www.arduino.cc/en/software/`
+- Arduino IDE
+```
+https://www.arduino.cc/en/software/
+```
 
 ### Flow Chart and Circuit Diagram ###
 - Flow chart
